@@ -40,11 +40,11 @@ export default function Navbar() {
     return (
         <header className="bg-white shadow-md fixed top-0 w-full z-50">
             <div
-                className="flex flex-row justify-between bg-[var(--white)] px-[32px] py-[6px] text-[var(--lightblue)] h-[64px]">
+                className="flex flex-row justify-between bg-gradient-to-b from-gray-300 to-gray-200 px-[32px] py-[6px] text-[var(--lightblue)] h-[64px]">
                 <div className="flex flex-row justify-start items-center">
                     <Logo width={256}/>
-                    {/*<img className="h-auto w-[64px]" src="/images/svg/bengusaicon.svg" alt="bengusa_logo"/>*/}
-                    {/*<div className="text-white text-[24px]">bengUSA.pro</div>*/}
+                    {/* <img className="h-auto w-[64px]" src="/images/svg/bengusaicon.svg" alt="bengusa_logo"/> */}
+                    {/* <div className="text-white text-[24px]">bengUSA.pro</div> */}
                 </div>
                 <nav className="hidden md:flex flex-row justify-end items-center text-[var(--bluelight)]">
                     {paths.map((item, index) => {
