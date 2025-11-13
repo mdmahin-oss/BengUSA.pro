@@ -10,7 +10,7 @@ export default function Home() {
    {/* Digital Silk Way to do it */}
  <div className="min-h-screen flex flex-col lg:flex-row">
       {/* Left Side */}
-      <div className="lg:w-1/2 w-full bg-gradient-to-br from-blue-700 to-purple-800 text-white p-10 flex flex-col justify-center">
+      <div className="lg:w-1/2 w-full bg-gradient-to-b from-[#020617] to-[#011627] text-white p-10 flex flex-col justify-center">
         <h4 className="text-2xl font-semibold text-center uppercase mb-2">Take the silk road to</h4>
         <h1 className="text-6xl md:text-5xl text-center font-bold leading-tight mb-6 text-cyan-400">
           Digitizing Your <br /> Business Growth
