@@ -19,7 +19,7 @@ export default function About() {
     {
       name: "Mahin Zaman",
       title: "CEO AND FOUNDER",
-      image: "/peoples/Me.jpg",
+      image: "/images/peoples/Me.jpg",
       bio: `Mahin is a hands-on leader and digital expert focused on providing specific tactics and strategies to grow brands online. 
       He has worked with numerous brands, from Fortune 500 companies to reputable startups including Google, Microsoft, SONY, NFL, NYU, P&G, Fleet Bank and NASA. 
       Mahin sets the stage for a proactive work culture and personally reviews every project to ensure excellence.`,
@@ -31,21 +31,21 @@ export default function About() {
     {
       name: "Stephanie Sharlow",
       title: "VP, CLIENT PARTNER",
-      image: "/peoples/person4.png",
+      image: "/images/peoples/person4.png",
       bio: `Stephanie leads client partnerships with a focus on growth and strategy. 
       She ensures every campaign aligns with the client’s goals and brand values, creating long-term success through data-driven decisions.`,
     },
     {
       name: "Bojan Milicevic",
       title: "CFO/COO",
-      image: "/peoples/person3.jpg",
+      image: "/images/peoples/person3.jpg",
       bio: `Bojan oversees operations and financial strategy, ensuring projects run smoothly and efficiently. 
       His leadership drives cross-departmental collaboration and sustainable company growth.`,
     },
     {
       name: "Gabriel Shaoolian",
       title: "VP, CLIENT PARTNER",
-      image: "/peoples/person2.jpg",
+      image: "/images/peoples/person2.jpg",
       bio: `Gabriel brings years of experience in managing high-profile client relationships and driving marketing performance. 
       She is passionate about delivering meaningful digital experiences that generate measurable impact.`,
     },
@@ -305,4 +305,5 @@ Join our team
     </>
   );
 }
+
 
